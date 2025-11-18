@@ -29,9 +29,8 @@
 ## Class takeaways
 Check out the slide decks on the following:
 - **Web Performance Testing**
-
-[- **Usability Testing**]: #
-[  - Usability testing documentation example(https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson11/Usability%20Test%20documentation%20example.pdf)]: #
+- **Usability Testing**
+  - [Usability testing documentation example](https://github.com/arturomorarioja-ek/SD_Testing_E25/blob/main/Lesson11/Usability%20Test%20documentation%20example.pdf)
 
 Check out the following web performance code samples:
 - [JavaScript Lazy Loading](https://github.com/arturomorarioja/js_import)
